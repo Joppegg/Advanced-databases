@@ -7,7 +7,7 @@ using System.Data.SqlClient;
 namespace Windows_Application { 
 
 
-     
+    
    public class DatabaseConnection
     {
      
@@ -24,16 +24,14 @@ namespace Windows_Application {
 
         public static string GetConnectionString()
         {
-
+            //should be changed to static
             SqlConnectionStringBuilder builder = new SqlConnectionStringBuilder();
             builder.DataSource = "DESKTOP-94IVMEG\\SQLEXPRESS";
             builder.UserID = "Jonny";
             builder.Password = "Dumdum123";
             builder.InitialCatalog = "Travel";
-           
             return builder.ConnectionString;
          
-
         }
  
         public SqlConnection GetDatabaseConnection ()
