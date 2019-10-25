@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wsdl:definitions xmlns:soapenc="http://schemas.xmlsoap.org/soap/encoding/" xmlns:mime="http://schemas.xmlsoap.org/wsdl/mime/" xmlns:tns="http://SeSkarpt.se/" xmlns:s="http://www.w3.org/2001/XMLSchema" xmlns:soap="http://schemas.xmlsoap.org/wsdl/soap/" xmlns:tm="http://microsoft.com/wsdl/mime/textMatching/" xmlns:http="http://schemas.xmlsoap.org/wsdl/http/" xmlns:soap12="http://schemas.xmlsoap.org/wsdl/soap12/" targetNamespace="http://SeSkarpt.se/" xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">
+  <wsdl:types>
+    <s:schema elementFormDefault="qualified" targetNamespace="http://SeSkarpt.se/">
+      <s:element name="Text">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="fileName" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="TextResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="TextResult" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+    </s:schema>
+  </wsdl:types>
+  <wsdl:message name="TextSoapIn">
+    <wsdl:part name="parameters" element="tns:Text" />
+  </wsdl:message>
+  <wsdl:message name="TextSoapOut">
+    <wsdl:part name="parameters" element="tns:TextResponse" />
+  </wsdl:message>
+  <wsdl:portType name="FileReaderWebServiceSoap">
+    <wsdl:operation name="Text">
+      <wsdl:input message="tns:TextSoapIn" />
+      <wsdl:output message="tns:TextSoapOut" />
+    </wsdl:operation>
+  </wsdl:portType>
+  <wsdl:binding name="FileReaderWebServiceSoap" type="tns:FileReaderWebServiceSoap">
+    <soap:binding transport="http://schemas.xmlsoap.org/soap/http" />
+    <wsdl:operation name="Text">
+      <soap:operation soapAction="http://SeSkarpt.se/Text" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+  </wsdl:binding>
+  <wsdl:binding name="FileReaderWebServiceSoap12" type="tns:FileReaderWebServiceSoap">
+    <soap12:binding transport="http://schemas.xmlsoap.org/soap/http" />
+    <wsdl:operation name="Text">
+      <soap12:operation soapAction="http://SeSkarpt.se/Text" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+  </wsdl:binding>
+  <wsdl:service name="FileReaderWebService">
+    <wsdl:port name="FileReaderWebServiceSoap" binding="tns:FileReaderWebServiceSoap">
+      <soap:address location="http://localhost:55303/FileReaderWebService.asmx" />
+    </wsdl:port>
+    <wsdl:port name="FileReaderWebServiceSoap12" binding="tns:FileReaderWebServiceSoap12">
+      <soap12:address location="http://localhost:55303/FileReaderWebService.asmx" />
+    </wsdl:port>
+  </wsdl:service>
+</wsdl:definitions>

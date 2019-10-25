@@ -1,0 +1,7 @@
+C:\Users\jongr\Documents\GitHub\vt19-sysa14-programkonstruktion-pa1-vt19-sysa14-se-skarpt\Uppgift2\bin\Debug\Uppgift2.exe.config
+C:\Users\jongr\Documents\GitHub\vt19-sysa14-programkonstruktion-pa1-vt19-sysa14-se-skarpt\Uppgift2\bin\Debug\Uppgift2.exe
+C:\Users\jongr\Documents\GitHub\vt19-sysa14-programkonstruktion-pa1-vt19-sysa14-se-skarpt\Uppgift2\bin\Debug\Uppgift2.pdb
+C:\Users\jongr\Documents\GitHub\vt19-sysa14-programkonstruktion-pa1-vt19-sysa14-se-skarpt\Uppgift2\obj\Debug\Uppgift2.csprojAssemblyReference.cache
+C:\Users\jongr\Documents\GitHub\vt19-sysa14-programkonstruktion-pa1-vt19-sysa14-se-skarpt\Uppgift2\obj\Debug\Uppgift2.csproj.CoreCompileInputs.cache
+C:\Users\jongr\Documents\GitHub\vt19-sysa14-programkonstruktion-pa1-vt19-sysa14-se-skarpt\Uppgift2\obj\Debug\Uppgift2.exe
+C:\Users\jongr\Documents\GitHub\vt19-sysa14-programkonstruktion-pa1-vt19-sysa14-se-skarpt\Uppgift2\obj\Debug\Uppgift2.pdb

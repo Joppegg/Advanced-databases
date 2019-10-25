@@ -1,0 +1,86 @@
+C:\GHRepo\vt19-sysa14-programkonstruktion-pa1-vt19-sysa14-se-skarpt\StartForm\bin\Debug\StartForm.exe.config
+C:\GHRepo\vt19-sysa14-programkonstruktion-pa1-vt19-sysa14-se-skarpt\StartForm\bin\Debug\StartForm.exe
+C:\GHRepo\vt19-sysa14-programkonstruktion-pa1-vt19-sysa14-se-skarpt\StartForm\bin\Debug\StartForm.pdb
+C:\GHRepo\vt19-sysa14-programkonstruktion-pa1-vt19-sysa14-se-skarpt\StartForm\bin\Debug\Windows Application.exe
+C:\GHRepo\vt19-sysa14-programkonstruktion-pa1-vt19-sysa14-se-skarpt\StartForm\bin\Debug\Windows Application.pdb
+C:\GHRepo\vt19-sysa14-programkonstruktion-pa1-vt19-sysa14-se-skarpt\StartForm\bin\Debug\Windows Application.exe.config
+C:\GHRepo\vt19-sysa14-programkonstruktion-pa1-vt19-sysa14-se-skarpt\StartForm\obj\Debug\StartForm.csprojAssemblyReference.cache
+C:\GHRepo\vt19-sysa14-programkonstruktion-pa1-vt19-sysa14-se-skarpt\StartForm\obj\Debug\StartForm.Form1.resources
+C:\GHRepo\vt19-sysa14-programkonstruktion-pa1-vt19-sysa14-se-skarpt\StartForm\obj\Debug\StartForm.Properties.Resources.resources
+C:\GHRepo\vt19-sysa14-programkonstruktion-pa1-vt19-sysa14-se-skarpt\StartForm\obj\Debug\StartForm.csproj.GenerateResource.cache
+C:\GHRepo\vt19-sysa14-programkonstruktion-pa1-vt19-sysa14-se-skarpt\StartForm\obj\Debug\StartForm.csproj.CoreCompileInputs.cache
+C:\GHRepo\vt19-sysa14-programkonstruktion-pa1-vt19-sysa14-se-skarpt\StartForm\obj\Debug\StartForm.csproj.CopyComplete
+C:\GHRepo\vt19-sysa14-programkonstruktion-pa1-vt19-sysa14-se-skarpt\StartForm\obj\Debug\StartForm.exe
+C:\GHRepo\vt19-sysa14-programkonstruktion-pa1-vt19-sysa14-se-skarpt\StartForm\obj\Debug\StartForm.pdb
+C:\GHRepo\vt19-sysa14-programkonstruktion-pa1-vt19-sysa14-se-skarpt\StartForm\bin\Debug\CronusCrudForm.exe
+C:\GHRepo\vt19-sysa14-programkonstruktion-pa1-vt19-sysa14-se-skarpt\StartForm\bin\Debug\CronusQueryForm.exe
+C:\GHRepo\vt19-sysa14-programkonstruktion-pa1-vt19-sysa14-se-skarpt\StartForm\bin\Debug\DBReaderForm.exe
+C:\GHRepo\vt19-sysa14-programkonstruktion-pa1-vt19-sysa14-se-skarpt\StartForm\bin\Debug\WindowsFormsApp1.exe
+C:\GHRepo\vt19-sysa14-programkonstruktion-pa1-vt19-sysa14-se-skarpt\StartForm\bin\Debug\WindowsFormsFileReader.exe
+C:\GHRepo\vt19-sysa14-programkonstruktion-pa1-vt19-sysa14-se-skarpt\StartForm\bin\Debug\CronusCrudForm.pdb
+C:\GHRepo\vt19-sysa14-programkonstruktion-pa1-vt19-sysa14-se-skarpt\StartForm\bin\Debug\CronusCrudForm.exe.config
+C:\GHRepo\vt19-sysa14-programkonstruktion-pa1-vt19-sysa14-se-skarpt\StartForm\bin\Debug\CronusQueryForm.pdb
+C:\GHRepo\vt19-sysa14-programkonstruktion-pa1-vt19-sysa14-se-skarpt\StartForm\bin\Debug\CronusQueryForm.exe.config
+C:\GHRepo\vt19-sysa14-programkonstruktion-pa1-vt19-sysa14-se-skarpt\StartForm\bin\Debug\DBReaderForm.pdb
+C:\GHRepo\vt19-sysa14-programkonstruktion-pa1-vt19-sysa14-se-skarpt\StartForm\bin\Debug\DBReaderForm.exe.config
+C:\GHRepo\vt19-sysa14-programkonstruktion-pa1-vt19-sysa14-se-skarpt\StartForm\bin\Debug\WindowsFormsFileReader.pdb
+C:\GHRepo\vt19-sysa14-programkonstruktion-pa1-vt19-sysa14-se-skarpt\StartForm\bin\Debug\WindowsFormsFileReader.exe.config
+C:\GHRepo\vt19-sysa14-programkonstruktion-pa1-vt19-sysa14-se-skarpt\StartForm\bin\Debug\WindowsFormsApp1.pdb
+C:\GHRepo\vt19-sysa14-programkonstruktion-pa1-vt19-sysa14-se-skarpt\StartForm\bin\Debug\WindowsFormsApp1.exe.config
+C:\GH\vt19-sysa14-programkonstruktion-pa1-vt19-sysa14-se-skarpt\StartForm\bin\Debug\StartForm.exe.config
+C:\GH\vt19-sysa14-programkonstruktion-pa1-vt19-sysa14-se-skarpt\StartForm\bin\Debug\StartForm.exe
+C:\GH\vt19-sysa14-programkonstruktion-pa1-vt19-sysa14-se-skarpt\StartForm\bin\Debug\StartForm.pdb
+C:\GH\vt19-sysa14-programkonstruktion-pa1-vt19-sysa14-se-skarpt\StartForm\bin\Debug\CronusCrudForm.exe
+C:\GH\vt19-sysa14-programkonstruktion-pa1-vt19-sysa14-se-skarpt\StartForm\bin\Debug\CronusQueryForm.exe
+C:\GH\vt19-sysa14-programkonstruktion-pa1-vt19-sysa14-se-skarpt\StartForm\bin\Debug\DBReaderForm.exe
+C:\GH\vt19-sysa14-programkonstruktion-pa1-vt19-sysa14-se-skarpt\StartForm\bin\Debug\Windows Application.exe
+C:\GH\vt19-sysa14-programkonstruktion-pa1-vt19-sysa14-se-skarpt\StartForm\bin\Debug\WindowsFormsApp1.exe
+C:\GH\vt19-sysa14-programkonstruktion-pa1-vt19-sysa14-se-skarpt\StartForm\bin\Debug\WindowsFormsFileReader.exe
+C:\GH\vt19-sysa14-programkonstruktion-pa1-vt19-sysa14-se-skarpt\StartForm\bin\Debug\CronusCrudForm.pdb
+C:\GH\vt19-sysa14-programkonstruktion-pa1-vt19-sysa14-se-skarpt\StartForm\bin\Debug\CronusCrudForm.exe.config
+C:\GH\vt19-sysa14-programkonstruktion-pa1-vt19-sysa14-se-skarpt\StartForm\bin\Debug\CronusQueryForm.pdb
+C:\GH\vt19-sysa14-programkonstruktion-pa1-vt19-sysa14-se-skarpt\StartForm\bin\Debug\CronusQueryForm.exe.config
+C:\GH\vt19-sysa14-programkonstruktion-pa1-vt19-sysa14-se-skarpt\StartForm\bin\Debug\DBReaderForm.pdb
+C:\GH\vt19-sysa14-programkonstruktion-pa1-vt19-sysa14-se-skarpt\StartForm\bin\Debug\DBReaderForm.exe.config
+C:\GH\vt19-sysa14-programkonstruktion-pa1-vt19-sysa14-se-skarpt\StartForm\bin\Debug\Windows Application.pdb
+C:\GH\vt19-sysa14-programkonstruktion-pa1-vt19-sysa14-se-skarpt\StartForm\bin\Debug\Windows Application.exe.config
+C:\GH\vt19-sysa14-programkonstruktion-pa1-vt19-sysa14-se-skarpt\StartForm\bin\Debug\WindowsFormsFileReader.pdb
+C:\GH\vt19-sysa14-programkonstruktion-pa1-vt19-sysa14-se-skarpt\StartForm\bin\Debug\WindowsFormsFileReader.exe.config
+C:\GH\vt19-sysa14-programkonstruktion-pa1-vt19-sysa14-se-skarpt\StartForm\bin\Debug\WindowsFormsApp1.pdb
+C:\GH\vt19-sysa14-programkonstruktion-pa1-vt19-sysa14-se-skarpt\StartForm\bin\Debug\WindowsFormsApp1.exe.config
+C:\GH\vt19-sysa14-programkonstruktion-pa1-vt19-sysa14-se-skarpt\StartForm\obj\Debug\StartForm.csprojAssemblyReference.cache
+C:\GH\vt19-sysa14-programkonstruktion-pa1-vt19-sysa14-se-skarpt\StartForm\obj\Debug\StartForm.Form1.resources
+C:\GH\vt19-sysa14-programkonstruktion-pa1-vt19-sysa14-se-skarpt\StartForm\obj\Debug\StartForm.Properties.Resources.resources
+C:\GH\vt19-sysa14-programkonstruktion-pa1-vt19-sysa14-se-skarpt\StartForm\obj\Debug\StartForm.csproj.GenerateResource.cache
+C:\GH\vt19-sysa14-programkonstruktion-pa1-vt19-sysa14-se-skarpt\StartForm\obj\Debug\StartForm.csproj.CoreCompileInputs.cache
+C:\GH\vt19-sysa14-programkonstruktion-pa1-vt19-sysa14-se-skarpt\StartForm\obj\Debug\StartForm.csproj.CopyComplete
+C:\GH\vt19-sysa14-programkonstruktion-pa1-vt19-sysa14-se-skarpt\StartForm\obj\Debug\StartForm.exe
+C:\GH\vt19-sysa14-programkonstruktion-pa1-vt19-sysa14-se-skarpt\StartForm\obj\Debug\StartForm.pdb
+C:\Users\jongr\Documents\GitHub\vt19-sysa14-programkonstruktion-pa1-vt19-sysa14-se-skarpt\StartForm\bin\Debug\StartForm.exe.config
+C:\Users\jongr\Documents\GitHub\vt19-sysa14-programkonstruktion-pa1-vt19-sysa14-se-skarpt\StartForm\bin\Debug\StartForm.exe
+C:\Users\jongr\Documents\GitHub\vt19-sysa14-programkonstruktion-pa1-vt19-sysa14-se-skarpt\StartForm\bin\Debug\StartForm.pdb
+C:\Users\jongr\Documents\GitHub\vt19-sysa14-programkonstruktion-pa1-vt19-sysa14-se-skarpt\StartForm\bin\Debug\CronusCrudForm.exe
+C:\Users\jongr\Documents\GitHub\vt19-sysa14-programkonstruktion-pa1-vt19-sysa14-se-skarpt\StartForm\bin\Debug\CronusQueryForm.exe
+C:\Users\jongr\Documents\GitHub\vt19-sysa14-programkonstruktion-pa1-vt19-sysa14-se-skarpt\StartForm\bin\Debug\DBReaderForm.exe
+C:\Users\jongr\Documents\GitHub\vt19-sysa14-programkonstruktion-pa1-vt19-sysa14-se-skarpt\StartForm\bin\Debug\Windows Application.exe
+C:\Users\jongr\Documents\GitHub\vt19-sysa14-programkonstruktion-pa1-vt19-sysa14-se-skarpt\StartForm\bin\Debug\WindowsFormsApp1.exe
+C:\Users\jongr\Documents\GitHub\vt19-sysa14-programkonstruktion-pa1-vt19-sysa14-se-skarpt\StartForm\bin\Debug\WindowsFormsFileReader.exe
+C:\Users\jongr\Documents\GitHub\vt19-sysa14-programkonstruktion-pa1-vt19-sysa14-se-skarpt\StartForm\bin\Debug\CronusCrudForm.pdb
+C:\Users\jongr\Documents\GitHub\vt19-sysa14-programkonstruktion-pa1-vt19-sysa14-se-skarpt\StartForm\bin\Debug\CronusCrudForm.exe.config
+C:\Users\jongr\Documents\GitHub\vt19-sysa14-programkonstruktion-pa1-vt19-sysa14-se-skarpt\StartForm\bin\Debug\CronusQueryForm.pdb
+C:\Users\jongr\Documents\GitHub\vt19-sysa14-programkonstruktion-pa1-vt19-sysa14-se-skarpt\StartForm\bin\Debug\CronusQueryForm.exe.config
+C:\Users\jongr\Documents\GitHub\vt19-sysa14-programkonstruktion-pa1-vt19-sysa14-se-skarpt\StartForm\bin\Debug\DBReaderForm.pdb
+C:\Users\jongr\Documents\GitHub\vt19-sysa14-programkonstruktion-pa1-vt19-sysa14-se-skarpt\StartForm\bin\Debug\DBReaderForm.exe.config
+C:\Users\jongr\Documents\GitHub\vt19-sysa14-programkonstruktion-pa1-vt19-sysa14-se-skarpt\StartForm\bin\Debug\Windows Application.pdb
+C:\Users\jongr\Documents\GitHub\vt19-sysa14-programkonstruktion-pa1-vt19-sysa14-se-skarpt\StartForm\bin\Debug\Windows Application.exe.config
+C:\Users\jongr\Documents\GitHub\vt19-sysa14-programkonstruktion-pa1-vt19-sysa14-se-skarpt\StartForm\bin\Debug\WindowsFormsFileReader.pdb
+C:\Users\jongr\Documents\GitHub\vt19-sysa14-programkonstruktion-pa1-vt19-sysa14-se-skarpt\StartForm\bin\Debug\WindowsFormsFileReader.exe.config
+C:\Users\jongr\Documents\GitHub\vt19-sysa14-programkonstruktion-pa1-vt19-sysa14-se-skarpt\StartForm\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\jongr\Documents\GitHub\vt19-sysa14-programkonstruktion-pa1-vt19-sysa14-se-skarpt\StartForm\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\jongr\Documents\GitHub\vt19-sysa14-programkonstruktion-pa1-vt19-sysa14-se-skarpt\StartForm\obj\Debug\StartForm.csprojAssemblyReference.cache
+C:\Users\jongr\Documents\GitHub\vt19-sysa14-programkonstruktion-pa1-vt19-sysa14-se-skarpt\StartForm\obj\Debug\StartForm.Form1.resources
+C:\Users\jongr\Documents\GitHub\vt19-sysa14-programkonstruktion-pa1-vt19-sysa14-se-skarpt\StartForm\obj\Debug\StartForm.Properties.Resources.resources
+C:\Users\jongr\Documents\GitHub\vt19-sysa14-programkonstruktion-pa1-vt19-sysa14-se-skarpt\StartForm\obj\Debug\StartForm.csproj.GenerateResource.cache
+C:\Users\jongr\Documents\GitHub\vt19-sysa14-programkonstruktion-pa1-vt19-sysa14-se-skarpt\StartForm\obj\Debug\StartForm.csproj.CopyComplete
+C:\Users\jongr\Documents\GitHub\vt19-sysa14-programkonstruktion-pa1-vt19-sysa14-se-skarpt\StartForm\obj\Debug\StartForm.exe
+C:\Users\jongr\Documents\GitHub\vt19-sysa14-programkonstruktion-pa1-vt19-sysa14-se-skarpt\StartForm\obj\Debug\StartForm.pdb

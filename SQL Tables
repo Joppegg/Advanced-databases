@@ -1,0 +1,28 @@
+CREATE TABLE Customer
+(
+	customerNbr INT IDENTITY(1,1) PRIMARY KEY,
+	name VARCHAR (30),
+	address VARCHAR (30),
+	ssn VARCHAR (10),
+	CHECk (LEN(ssn) = 10),
+	UNIQUE (ssn)
+)
+
+CREATE TABLE Destination
+(
+	destinationNbr INT IDENTITY(1,1) PRIMARY KEY,
+	city VARCHAR (30),
+	country VARCHAR (30),
+	hotel VARCHAR (30),
+)
+
+CREATE TABLE Booking
+(
+	customerNbr INT,
+	destinationNbr INT,
+	dateOut DATE,
+	dateHome DATE,
+        bookingNbr INT IDENTITY(1,1) PRIMARY KEY,
+	CONSTRAINT fk_customer FOREIGN KEY(customerNbr) REFERENCES Customer(customerNbr)  ON DELETE CASCADE,
+	CONSTRAINT fk_destination FOREIGN KEY(destinationNbr) REFERENCES Destination(destinationNbr) ON DELETE CASCADE
+)

@@ -1,0 +1,47 @@
+C:\GHRepo\vt19-sysa14-programkonstruktion-pa1-vt19-sysa14-se-skarpt\Windows Application\WindowsFormsFileReader\bin\Debug\WindowsFormsFileReader.exe.config
+C:\GHRepo\vt19-sysa14-programkonstruktion-pa1-vt19-sysa14-se-skarpt\Windows Application\WindowsFormsFileReader\bin\Debug\WindowsFormsFileReader.exe
+C:\GHRepo\vt19-sysa14-programkonstruktion-pa1-vt19-sysa14-se-skarpt\Windows Application\WindowsFormsFileReader\bin\Debug\WindowsFormsFileReader.pdb
+C:\GHRepo\vt19-sysa14-programkonstruktion-pa1-vt19-sysa14-se-skarpt\Windows Application\WindowsFormsFileReader\obj\Debug\WindowsFormsFileReader.csprojAssemblyReference.cache
+C:\GHRepo\vt19-sysa14-programkonstruktion-pa1-vt19-sysa14-se-skarpt\Windows Application\WindowsFormsFileReader\obj\Debug\WindowsFormsFileReader.Form1.resources
+C:\GHRepo\vt19-sysa14-programkonstruktion-pa1-vt19-sysa14-se-skarpt\Windows Application\WindowsFormsFileReader\obj\Debug\WindowsFormsFileReader.Properties.Resources.resources
+C:\GHRepo\vt19-sysa14-programkonstruktion-pa1-vt19-sysa14-se-skarpt\Windows Application\WindowsFormsFileReader\obj\Debug\WindowsFormsFileReader.csproj.GenerateResource.cache
+C:\GHRepo\vt19-sysa14-programkonstruktion-pa1-vt19-sysa14-se-skarpt\Windows Application\WindowsFormsFileReader\obj\Debug\WindowsFormsFileReader.csproj.CoreCompileInputs.cache
+C:\GHRepo\vt19-sysa14-programkonstruktion-pa1-vt19-sysa14-se-skarpt\Windows Application\WindowsFormsFileReader\obj\Debug\WindowsFormsFileReader.exe
+C:\GHRepo\vt19-sysa14-programkonstruktion-pa1-vt19-sysa14-se-skarpt\Windows Application\WindowsFormsFileReader\obj\Debug\WindowsFormsFileReader.pdb
+C:\GHRepo\vt19-sysa14-programkonstruktion-pa1-vt19-sysa14-se-skarpt\Windows Application\WindowsFormsFileReader\bin\Debug\Windows Application.exe
+C:\GHRepo\vt19-sysa14-programkonstruktion-pa1-vt19-sysa14-se-skarpt\Windows Application\WindowsFormsFileReader\bin\Debug\Windows Application.pdb
+C:\GHRepo\vt19-sysa14-programkonstruktion-pa1-vt19-sysa14-se-skarpt\Windows Application\WindowsFormsFileReader\bin\Debug\Windows Application.exe.config
+C:\GHRepo\vt19-sysa14-programkonstruktion-pa1-vt19-sysa14-se-skarpt\Windows Application\WindowsFormsFileReader\obj\Debug\WindowsFormsFileReader.csproj.CopyComplete
+C:\GH\vt19-sysa14-programkonstruktion-pa1-vt19-sysa14-se-skarpt\Windows Application\WindowsFormsFileReader\bin\Debug\WindowsFormsFileReader.exe.config
+C:\GH\vt19-sysa14-programkonstruktion-pa1-vt19-sysa14-se-skarpt\Windows Application\WindowsFormsFileReader\bin\Debug\WindowsFormsFileReader.exe
+C:\GH\vt19-sysa14-programkonstruktion-pa1-vt19-sysa14-se-skarpt\Windows Application\WindowsFormsFileReader\bin\Debug\WindowsFormsFileReader.pdb
+C:\GH\vt19-sysa14-programkonstruktion-pa1-vt19-sysa14-se-skarpt\Windows Application\WindowsFormsFileReader\bin\Debug\Windows Application.exe
+C:\GH\vt19-sysa14-programkonstruktion-pa1-vt19-sysa14-se-skarpt\Windows Application\WindowsFormsFileReader\bin\Debug\Windows Application.pdb
+C:\GH\vt19-sysa14-programkonstruktion-pa1-vt19-sysa14-se-skarpt\Windows Application\WindowsFormsFileReader\bin\Debug\Windows Application.exe.config
+C:\GH\vt19-sysa14-programkonstruktion-pa1-vt19-sysa14-se-skarpt\Windows Application\WindowsFormsFileReader\obj\Debug\WindowsFormsFileReader.csprojAssemblyReference.cache
+C:\GH\vt19-sysa14-programkonstruktion-pa1-vt19-sysa14-se-skarpt\Windows Application\WindowsFormsFileReader\obj\Debug\WindowsFormsFileReader.Form1.resources
+C:\GH\vt19-sysa14-programkonstruktion-pa1-vt19-sysa14-se-skarpt\Windows Application\WindowsFormsFileReader\obj\Debug\WindowsFormsFileReader.Properties.Resources.resources
+C:\GH\vt19-sysa14-programkonstruktion-pa1-vt19-sysa14-se-skarpt\Windows Application\WindowsFormsFileReader\obj\Debug\WindowsFormsFileReader.csproj.GenerateResource.cache
+C:\GH\vt19-sysa14-programkonstruktion-pa1-vt19-sysa14-se-skarpt\Windows Application\WindowsFormsFileReader\obj\Debug\WindowsFormsFileReader.csproj.CoreCompileInputs.cache
+C:\GH\vt19-sysa14-programkonstruktion-pa1-vt19-sysa14-se-skarpt\Windows Application\WindowsFormsFileReader\obj\Debug\WindowsFormsFileReader.csproj.CopyComplete
+C:\GH\vt19-sysa14-programkonstruktion-pa1-vt19-sysa14-se-skarpt\Windows Application\WindowsFormsFileReader\obj\Debug\WindowsFormsFileReader.exe
+C:\GH\vt19-sysa14-programkonstruktion-pa1-vt19-sysa14-se-skarpt\Windows Application\WindowsFormsFileReader\obj\Debug\WindowsFormsFileReader.pdb
+C:\GHRepo\vt19-sysa14-programkonstruktion-pa1-vt19-sysa14-se-skarpt\Windows Application\WindowsFormsFileReader\bin\Debug\FileReaderConsoleApp.exe
+C:\GHRepo\vt19-sysa14-programkonstruktion-pa1-vt19-sysa14-se-skarpt\Windows Application\WindowsFormsFileReader\bin\Debug\FileReaderConsoleApp.pdb
+C:\GHRepo\vt19-sysa14-programkonstruktion-pa1-vt19-sysa14-se-skarpt\Windows Application\WindowsFormsFileReader\bin\Debug\FileReaderConsoleApp.exe.config
+C:\Users\jongr\Documents\GitHub\vt19-sysa14-programkonstruktion-pa1-vt19-sysa14-se-skarpt\Windows Application\WindowsFormsFileReader\bin\Debug\WindowsFormsFileReader.exe.config
+C:\Users\jongr\Documents\GitHub\vt19-sysa14-programkonstruktion-pa1-vt19-sysa14-se-skarpt\Windows Application\WindowsFormsFileReader\bin\Debug\WindowsFormsFileReader.exe
+C:\Users\jongr\Documents\GitHub\vt19-sysa14-programkonstruktion-pa1-vt19-sysa14-se-skarpt\Windows Application\WindowsFormsFileReader\bin\Debug\WindowsFormsFileReader.pdb
+C:\Users\jongr\Documents\GitHub\vt19-sysa14-programkonstruktion-pa1-vt19-sysa14-se-skarpt\Windows Application\WindowsFormsFileReader\bin\Debug\FileReaderConsoleApp.exe
+C:\Users\jongr\Documents\GitHub\vt19-sysa14-programkonstruktion-pa1-vt19-sysa14-se-skarpt\Windows Application\WindowsFormsFileReader\bin\Debug\Windows Application.exe
+C:\Users\jongr\Documents\GitHub\vt19-sysa14-programkonstruktion-pa1-vt19-sysa14-se-skarpt\Windows Application\WindowsFormsFileReader\bin\Debug\FileReaderConsoleApp.pdb
+C:\Users\jongr\Documents\GitHub\vt19-sysa14-programkonstruktion-pa1-vt19-sysa14-se-skarpt\Windows Application\WindowsFormsFileReader\bin\Debug\FileReaderConsoleApp.exe.config
+C:\Users\jongr\Documents\GitHub\vt19-sysa14-programkonstruktion-pa1-vt19-sysa14-se-skarpt\Windows Application\WindowsFormsFileReader\bin\Debug\Windows Application.pdb
+C:\Users\jongr\Documents\GitHub\vt19-sysa14-programkonstruktion-pa1-vt19-sysa14-se-skarpt\Windows Application\WindowsFormsFileReader\bin\Debug\Windows Application.exe.config
+C:\Users\jongr\Documents\GitHub\vt19-sysa14-programkonstruktion-pa1-vt19-sysa14-se-skarpt\Windows Application\WindowsFormsFileReader\obj\Debug\WindowsFormsFileReader.csprojAssemblyReference.cache
+C:\Users\jongr\Documents\GitHub\vt19-sysa14-programkonstruktion-pa1-vt19-sysa14-se-skarpt\Windows Application\WindowsFormsFileReader\obj\Debug\WindowsFormsFileReader.Form1.resources
+C:\Users\jongr\Documents\GitHub\vt19-sysa14-programkonstruktion-pa1-vt19-sysa14-se-skarpt\Windows Application\WindowsFormsFileReader\obj\Debug\WindowsFormsFileReader.Properties.Resources.resources
+C:\Users\jongr\Documents\GitHub\vt19-sysa14-programkonstruktion-pa1-vt19-sysa14-se-skarpt\Windows Application\WindowsFormsFileReader\obj\Debug\WindowsFormsFileReader.csproj.GenerateResource.cache
+C:\Users\jongr\Documents\GitHub\vt19-sysa14-programkonstruktion-pa1-vt19-sysa14-se-skarpt\Windows Application\WindowsFormsFileReader\obj\Debug\WindowsFormsFileReader.csproj.CopyComplete
+C:\Users\jongr\Documents\GitHub\vt19-sysa14-programkonstruktion-pa1-vt19-sysa14-se-skarpt\Windows Application\WindowsFormsFileReader\obj\Debug\WindowsFormsFileReader.exe
+C:\Users\jongr\Documents\GitHub\vt19-sysa14-programkonstruktion-pa1-vt19-sysa14-se-skarpt\Windows Application\WindowsFormsFileReader\obj\Debug\WindowsFormsFileReader.pdb

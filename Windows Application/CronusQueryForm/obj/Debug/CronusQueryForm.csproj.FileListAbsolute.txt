@@ -1,0 +1,41 @@
+C:\GHRepo\vt19-sysa14-programkonstruktion-pa1-vt19-sysa14-se-skarpt\Windows Application\CronusQueryForm\bin\Debug\CronusQueryForm.exe.config
+C:\GHRepo\vt19-sysa14-programkonstruktion-pa1-vt19-sysa14-se-skarpt\Windows Application\CronusQueryForm\bin\Debug\CronusQueryForm.exe
+C:\GHRepo\vt19-sysa14-programkonstruktion-pa1-vt19-sysa14-se-skarpt\Windows Application\CronusQueryForm\bin\Debug\CronusQueryForm.pdb
+C:\GHRepo\vt19-sysa14-programkonstruktion-pa1-vt19-sysa14-se-skarpt\Windows Application\CronusQueryForm\obj\Debug\CronusQueryForm.csprojAssemblyReference.cache
+C:\GHRepo\vt19-sysa14-programkonstruktion-pa1-vt19-sysa14-se-skarpt\Windows Application\CronusQueryForm\obj\Debug\CronusQueryForm.Properties.Resources.resources
+C:\GHRepo\vt19-sysa14-programkonstruktion-pa1-vt19-sysa14-se-skarpt\Windows Application\CronusQueryForm\obj\Debug\CronusQueryForm.csproj.GenerateResource.cache
+C:\GHRepo\vt19-sysa14-programkonstruktion-pa1-vt19-sysa14-se-skarpt\Windows Application\CronusQueryForm\obj\Debug\CronusQueryForm.csproj.CoreCompileInputs.cache
+C:\GHRepo\vt19-sysa14-programkonstruktion-pa1-vt19-sysa14-se-skarpt\Windows Application\CronusQueryForm\obj\Debug\CronusQueryForm.exe
+C:\GHRepo\vt19-sysa14-programkonstruktion-pa1-vt19-sysa14-se-skarpt\Windows Application\CronusQueryForm\obj\Debug\CronusQueryForm.pdb
+C:\GH\vt19-sysa14-programkonstruktion-pa1-vt19-sysa14-se-skarpt\Windows Application\CronusQueryForm\bin\Debug\CronusQueryForm.exe.config
+C:\GH\vt19-sysa14-programkonstruktion-pa1-vt19-sysa14-se-skarpt\Windows Application\CronusQueryForm\bin\Debug\CronusQueryForm.exe
+C:\GH\vt19-sysa14-programkonstruktion-pa1-vt19-sysa14-se-skarpt\Windows Application\CronusQueryForm\bin\Debug\CronusQueryForm.pdb
+C:\GH\vt19-sysa14-programkonstruktion-pa1-vt19-sysa14-se-skarpt\Windows Application\CronusQueryForm\obj\Debug\CronusQueryForm.csprojAssemblyReference.cache
+C:\GH\vt19-sysa14-programkonstruktion-pa1-vt19-sysa14-se-skarpt\Windows Application\CronusQueryForm\obj\Debug\CronusQueryForm.Form1.resources
+C:\GH\vt19-sysa14-programkonstruktion-pa1-vt19-sysa14-se-skarpt\Windows Application\CronusQueryForm\obj\Debug\CronusQueryForm.Properties.Resources.resources
+C:\GH\vt19-sysa14-programkonstruktion-pa1-vt19-sysa14-se-skarpt\Windows Application\CronusQueryForm\obj\Debug\CronusQueryForm.csproj.GenerateResource.cache
+C:\GH\vt19-sysa14-programkonstruktion-pa1-vt19-sysa14-se-skarpt\Windows Application\CronusQueryForm\obj\Debug\CronusQueryForm.csproj.CoreCompileInputs.cache
+C:\GH\vt19-sysa14-programkonstruktion-pa1-vt19-sysa14-se-skarpt\Windows Application\CronusQueryForm\obj\Debug\CronusQueryForm.exe
+C:\GH\vt19-sysa14-programkonstruktion-pa1-vt19-sysa14-se-skarpt\Windows Application\CronusQueryForm\obj\Debug\CronusQueryForm.pdb
+C:\GHRepo\vt19-sysa14-programkonstruktion-pa1-vt19-sysa14-se-skarpt\Windows Application\CronusQueryForm\obj\Debug\CronusQueryForm.Form1.resources
+C:\GHRepo\vt19-sysa14-programkonstruktion-pa1-vt19-sysa14-se-skarpt\Windows Application\CronusQueryForm\bin\Debug\Windows Application.exe
+C:\GHRepo\vt19-sysa14-programkonstruktion-pa1-vt19-sysa14-se-skarpt\Windows Application\CronusQueryForm\bin\Debug\Windows Application.pdb
+C:\GHRepo\vt19-sysa14-programkonstruktion-pa1-vt19-sysa14-se-skarpt\Windows Application\CronusQueryForm\bin\Debug\Windows Application.exe.config
+C:\GHRepo\vt19-sysa14-programkonstruktion-pa1-vt19-sysa14-se-skarpt\Windows Application\CronusQueryForm\obj\Debug\CronusQueryForm.csproj.CopyComplete
+C:\GH\vt19-sysa14-programkonstruktion-pa1-vt19-sysa14-se-skarpt\Windows Application\CronusQueryForm\bin\Debug\Windows Application.exe
+C:\GH\vt19-sysa14-programkonstruktion-pa1-vt19-sysa14-se-skarpt\Windows Application\CronusQueryForm\bin\Debug\Windows Application.pdb
+C:\GH\vt19-sysa14-programkonstruktion-pa1-vt19-sysa14-se-skarpt\Windows Application\CronusQueryForm\bin\Debug\Windows Application.exe.config
+C:\GH\vt19-sysa14-programkonstruktion-pa1-vt19-sysa14-se-skarpt\Windows Application\CronusQueryForm\obj\Debug\CronusQueryForm.csproj.CopyComplete
+C:\Users\jongr\Documents\GitHub\vt19-sysa14-programkonstruktion-pa1-vt19-sysa14-se-skarpt\Windows Application\CronusQueryForm\bin\Debug\CronusQueryForm.exe.config
+C:\Users\jongr\Documents\GitHub\vt19-sysa14-programkonstruktion-pa1-vt19-sysa14-se-skarpt\Windows Application\CronusQueryForm\bin\Debug\CronusQueryForm.exe
+C:\Users\jongr\Documents\GitHub\vt19-sysa14-programkonstruktion-pa1-vt19-sysa14-se-skarpt\Windows Application\CronusQueryForm\bin\Debug\CronusQueryForm.pdb
+C:\Users\jongr\Documents\GitHub\vt19-sysa14-programkonstruktion-pa1-vt19-sysa14-se-skarpt\Windows Application\CronusQueryForm\bin\Debug\Windows Application.exe
+C:\Users\jongr\Documents\GitHub\vt19-sysa14-programkonstruktion-pa1-vt19-sysa14-se-skarpt\Windows Application\CronusQueryForm\bin\Debug\Windows Application.pdb
+C:\Users\jongr\Documents\GitHub\vt19-sysa14-programkonstruktion-pa1-vt19-sysa14-se-skarpt\Windows Application\CronusQueryForm\bin\Debug\Windows Application.exe.config
+C:\Users\jongr\Documents\GitHub\vt19-sysa14-programkonstruktion-pa1-vt19-sysa14-se-skarpt\Windows Application\CronusQueryForm\obj\Debug\CronusQueryForm.csprojAssemblyReference.cache
+C:\Users\jongr\Documents\GitHub\vt19-sysa14-programkonstruktion-pa1-vt19-sysa14-se-skarpt\Windows Application\CronusQueryForm\obj\Debug\CronusQueryForm.Form1.resources
+C:\Users\jongr\Documents\GitHub\vt19-sysa14-programkonstruktion-pa1-vt19-sysa14-se-skarpt\Windows Application\CronusQueryForm\obj\Debug\CronusQueryForm.Properties.Resources.resources
+C:\Users\jongr\Documents\GitHub\vt19-sysa14-programkonstruktion-pa1-vt19-sysa14-se-skarpt\Windows Application\CronusQueryForm\obj\Debug\CronusQueryForm.csproj.GenerateResource.cache
+C:\Users\jongr\Documents\GitHub\vt19-sysa14-programkonstruktion-pa1-vt19-sysa14-se-skarpt\Windows Application\CronusQueryForm\obj\Debug\CronusQueryForm.csproj.CopyComplete
+C:\Users\jongr\Documents\GitHub\vt19-sysa14-programkonstruktion-pa1-vt19-sysa14-se-skarpt\Windows Application\CronusQueryForm\obj\Debug\CronusQueryForm.exe
+C:\Users\jongr\Documents\GitHub\vt19-sysa14-programkonstruktion-pa1-vt19-sysa14-se-skarpt\Windows Application\CronusQueryForm\obj\Debug\CronusQueryForm.pdb

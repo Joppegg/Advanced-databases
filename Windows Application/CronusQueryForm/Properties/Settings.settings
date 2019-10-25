@@ -1,0 +1,12 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="CronusQueryForm.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="CronusQueryForm_localhost_CronusQueryWebService" Type="(Web Service URL)" Scope="Application">
+      <Value Profile="(Default)">http://localhost:49869/CronusQueryWebService.asmx</Value>
+    </Setting>
+    <Setting Name="CronusQueryForm_localhost1_CronusQueryWebService" Type="(Web Service URL)" Scope="Application">
+      <Value Profile="(Default)">http://localhost:49869/CronusQueryWebService.asmx</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

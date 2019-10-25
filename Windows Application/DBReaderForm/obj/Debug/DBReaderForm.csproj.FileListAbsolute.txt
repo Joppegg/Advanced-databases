@@ -1,0 +1,41 @@
+C:\GHRepo\vt19-sysa14-programkonstruktion-pa1-vt19-sysa14-se-skarpt\Windows Application\DBReaderForm\bin\Debug\DBReaderForm.exe.config
+C:\GHRepo\vt19-sysa14-programkonstruktion-pa1-vt19-sysa14-se-skarpt\Windows Application\DBReaderForm\bin\Debug\DBReaderForm.exe
+C:\GHRepo\vt19-sysa14-programkonstruktion-pa1-vt19-sysa14-se-skarpt\Windows Application\DBReaderForm\bin\Debug\DBReaderForm.pdb
+C:\GHRepo\vt19-sysa14-programkonstruktion-pa1-vt19-sysa14-se-skarpt\Windows Application\DBReaderForm\obj\Debug\DBReaderForm.csprojAssemblyReference.cache
+C:\GHRepo\vt19-sysa14-programkonstruktion-pa1-vt19-sysa14-se-skarpt\Windows Application\DBReaderForm\obj\Debug\DBReaderForm.Form1.resources
+C:\GHRepo\vt19-sysa14-programkonstruktion-pa1-vt19-sysa14-se-skarpt\Windows Application\DBReaderForm\obj\Debug\DBReaderForm.Properties.Resources.resources
+C:\GHRepo\vt19-sysa14-programkonstruktion-pa1-vt19-sysa14-se-skarpt\Windows Application\DBReaderForm\obj\Debug\DBReaderForm.csproj.GenerateResource.cache
+C:\GHRepo\vt19-sysa14-programkonstruktion-pa1-vt19-sysa14-se-skarpt\Windows Application\DBReaderForm\obj\Debug\DBReaderForm.csproj.CoreCompileInputs.cache
+C:\GHRepo\vt19-sysa14-programkonstruktion-pa1-vt19-sysa14-se-skarpt\Windows Application\DBReaderForm\obj\Debug\DBReaderForm.exe
+C:\GHRepo\vt19-sysa14-programkonstruktion-pa1-vt19-sysa14-se-skarpt\Windows Application\DBReaderForm\obj\Debug\DBReaderForm.pdb
+C:\GHRepo\vt19-sysa14-programkonstruktion-pa1-vt19-sysa14-se-skarpt\Windows Application\DBReaderForm\bin\Debug\Windows Application.exe
+C:\GHRepo\vt19-sysa14-programkonstruktion-pa1-vt19-sysa14-se-skarpt\Windows Application\DBReaderForm\bin\Debug\Windows Application.pdb
+C:\GHRepo\vt19-sysa14-programkonstruktion-pa1-vt19-sysa14-se-skarpt\Windows Application\DBReaderForm\bin\Debug\Windows Application.exe.config
+C:\GHRepo\vt19-sysa14-programkonstruktion-pa1-vt19-sysa14-se-skarpt\Windows Application\DBReaderForm\obj\Debug\DBReaderForm.csproj.CopyComplete
+C:\GH\vt19-sysa14-programkonstruktion-pa1-vt19-sysa14-se-skarpt\Windows Application\DBReaderForm\bin\Debug\DBReaderForm.exe.config
+C:\GH\vt19-sysa14-programkonstruktion-pa1-vt19-sysa14-se-skarpt\Windows Application\DBReaderForm\bin\Debug\DBReaderForm.exe
+C:\GH\vt19-sysa14-programkonstruktion-pa1-vt19-sysa14-se-skarpt\Windows Application\DBReaderForm\bin\Debug\DBReaderForm.pdb
+C:\GH\vt19-sysa14-programkonstruktion-pa1-vt19-sysa14-se-skarpt\Windows Application\DBReaderForm\bin\Debug\Windows Application.exe
+C:\GH\vt19-sysa14-programkonstruktion-pa1-vt19-sysa14-se-skarpt\Windows Application\DBReaderForm\bin\Debug\Windows Application.pdb
+C:\GH\vt19-sysa14-programkonstruktion-pa1-vt19-sysa14-se-skarpt\Windows Application\DBReaderForm\bin\Debug\Windows Application.exe.config
+C:\GH\vt19-sysa14-programkonstruktion-pa1-vt19-sysa14-se-skarpt\Windows Application\DBReaderForm\obj\Debug\DBReaderForm.csprojAssemblyReference.cache
+C:\GH\vt19-sysa14-programkonstruktion-pa1-vt19-sysa14-se-skarpt\Windows Application\DBReaderForm\obj\Debug\DBReaderForm.Form1.resources
+C:\GH\vt19-sysa14-programkonstruktion-pa1-vt19-sysa14-se-skarpt\Windows Application\DBReaderForm\obj\Debug\DBReaderForm.Properties.Resources.resources
+C:\GH\vt19-sysa14-programkonstruktion-pa1-vt19-sysa14-se-skarpt\Windows Application\DBReaderForm\obj\Debug\DBReaderForm.csproj.GenerateResource.cache
+C:\GH\vt19-sysa14-programkonstruktion-pa1-vt19-sysa14-se-skarpt\Windows Application\DBReaderForm\obj\Debug\DBReaderForm.csproj.CoreCompileInputs.cache
+C:\GH\vt19-sysa14-programkonstruktion-pa1-vt19-sysa14-se-skarpt\Windows Application\DBReaderForm\obj\Debug\DBReaderForm.csproj.CopyComplete
+C:\GH\vt19-sysa14-programkonstruktion-pa1-vt19-sysa14-se-skarpt\Windows Application\DBReaderForm\obj\Debug\DBReaderForm.exe
+C:\GH\vt19-sysa14-programkonstruktion-pa1-vt19-sysa14-se-skarpt\Windows Application\DBReaderForm\obj\Debug\DBReaderForm.pdb
+C:\Users\jongr\Documents\GitHub\vt19-sysa14-programkonstruktion-pa1-vt19-sysa14-se-skarpt\Windows Application\DBReaderForm\bin\Debug\DBReaderForm.exe.config
+C:\Users\jongr\Documents\GitHub\vt19-sysa14-programkonstruktion-pa1-vt19-sysa14-se-skarpt\Windows Application\DBReaderForm\bin\Debug\DBReaderForm.exe
+C:\Users\jongr\Documents\GitHub\vt19-sysa14-programkonstruktion-pa1-vt19-sysa14-se-skarpt\Windows Application\DBReaderForm\bin\Debug\DBReaderForm.pdb
+C:\Users\jongr\Documents\GitHub\vt19-sysa14-programkonstruktion-pa1-vt19-sysa14-se-skarpt\Windows Application\DBReaderForm\bin\Debug\Windows Application.exe
+C:\Users\jongr\Documents\GitHub\vt19-sysa14-programkonstruktion-pa1-vt19-sysa14-se-skarpt\Windows Application\DBReaderForm\bin\Debug\Windows Application.pdb
+C:\Users\jongr\Documents\GitHub\vt19-sysa14-programkonstruktion-pa1-vt19-sysa14-se-skarpt\Windows Application\DBReaderForm\bin\Debug\Windows Application.exe.config
+C:\Users\jongr\Documents\GitHub\vt19-sysa14-programkonstruktion-pa1-vt19-sysa14-se-skarpt\Windows Application\DBReaderForm\obj\Debug\DBReaderForm.csprojAssemblyReference.cache
+C:\Users\jongr\Documents\GitHub\vt19-sysa14-programkonstruktion-pa1-vt19-sysa14-se-skarpt\Windows Application\DBReaderForm\obj\Debug\DBReaderForm.Form1.resources
+C:\Users\jongr\Documents\GitHub\vt19-sysa14-programkonstruktion-pa1-vt19-sysa14-se-skarpt\Windows Application\DBReaderForm\obj\Debug\DBReaderForm.Properties.Resources.resources
+C:\Users\jongr\Documents\GitHub\vt19-sysa14-programkonstruktion-pa1-vt19-sysa14-se-skarpt\Windows Application\DBReaderForm\obj\Debug\DBReaderForm.csproj.GenerateResource.cache
+C:\Users\jongr\Documents\GitHub\vt19-sysa14-programkonstruktion-pa1-vt19-sysa14-se-skarpt\Windows Application\DBReaderForm\obj\Debug\DBReaderForm.csproj.CopyComplete
+C:\Users\jongr\Documents\GitHub\vt19-sysa14-programkonstruktion-pa1-vt19-sysa14-se-skarpt\Windows Application\DBReaderForm\obj\Debug\DBReaderForm.exe
+C:\Users\jongr\Documents\GitHub\vt19-sysa14-programkonstruktion-pa1-vt19-sysa14-se-skarpt\Windows Application\DBReaderForm\obj\Debug\DBReaderForm.pdb
