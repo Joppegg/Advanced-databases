@@ -15,7 +15,7 @@ namespace Windows_Application
 {
     public partial class UpdateCustomer : Form, IUpdateCustomer
     {
-        private Presenter presenter = null;
+        private Controller presenter = null;
         public string PersonSsn { get { return textBoxCustomerIdNumber.Text; } set { textBoxCustomerIdNumber.Text = value; } }
         public string PersonAddress { get { return textBoxCustomerAddress.Text; } set { textBoxCustomerAddress.Text = value; } }
         public string PersonName { get { return textBoxCustomerName.Text; } set { textBoxCustomerName.Text = value; } }
@@ -30,7 +30,7 @@ namespace Windows_Application
             PersonSsn = personSsn;
             PersonAddress = personAddress;
             PersonName = personName;
-            presenter = new Presenter(this);
+            presenter = new Controller(this);
 
         }
 

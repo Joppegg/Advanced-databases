@@ -13,13 +13,13 @@ namespace Windows_Application
             string errorMessage;
             if (errorNbr == 2627)
             {
-                errorMessage = "This ID-number is already registered.";
+                errorMessage = "This ID-number is already registered. ";
                 return errorMessage;
             }
 
            if (errorNbr == -1)
             {
-                errorMessage = "The connection to the database is not open. Check network conditions.";
+                errorMessage = "The connection to the database is not open. Check network conditions. ";
                 return errorMessage;
             }
 
@@ -34,8 +34,6 @@ namespace Windows_Application
                 errorMessage = "Unknown error, please try again. Sorry! Errorcode: " + errorNbr;
                 return errorMessage;
             }
-
-         
 
         }
 

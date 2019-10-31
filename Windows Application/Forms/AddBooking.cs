@@ -23,7 +23,7 @@ namespace Windows_Application
         public int DestinationNbr { get { return destinationNbr; } set { destinationNbr = value; } }
         public DateTime DateOut { get { return dateOut;  } set { dateOut = value; } }
         public DateTime DateHome{ get { return dateHome; } set { dateHome = value; } }
-        private Presenter presenter = null;
+        private Controller presenter = null;
         public delegate void NotifyUpdate();
         public NotifyUpdate notifyUpdate;
         public DataGridView DataGridViewCustomer { get { return dataGridViewCustomerBooking; } set { dataGridViewCustomerBooking = value; } }
@@ -32,7 +32,7 @@ namespace Windows_Application
         public AddBooking()
         {
             InitializeComponent();
-            presenter = new Presenter(this);
+            presenter = new Controller(this);
             try
             {
                 FillList();

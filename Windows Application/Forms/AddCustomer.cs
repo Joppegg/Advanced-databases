@@ -15,7 +15,7 @@ namespace Windows_Application
 {
     public partial class AddCustomer : Form, IAddCustomer
     {
-        private Presenter presenter = null;
+        private Controller presenter = null;
         public string PersonSsn { get { return textBoxCustomerID.Text; } set { textBoxCustomerID.Text = value; } }
         public string PersonAddress { get { return textBoxCustomerAddress.Text; } set { textBoxCustomerAddress.Text = value; } }
         public string PersonName { get { return textBoxCustomerName.Text; } set { textBoxCustomerName.Text = value; } }
@@ -26,7 +26,7 @@ namespace Windows_Application
         public AddCustomer()
         {
             InitializeComponent();
-            presenter = new Presenter(this);
+            presenter = new Controller(this);
         }
 
         private void textBox1_TextChanged(object sender, EventArgs e)

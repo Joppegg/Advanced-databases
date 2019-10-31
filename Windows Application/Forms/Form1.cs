@@ -24,7 +24,7 @@ namespace Windows_Application
         private string destinationCity;
         private string destinationCountry;
         private string destinationHotel;
-        private Presenter presenter = null;
+        private Controller presenter = null;
         public string PersonSsn { get { return personSsn; } set { personSsn = value; } }
         public string PersonAddress { get { return personAddress; } set { personAddress = value; } }
         public string PersonName { get { return personName; } set { personName = value; } }
@@ -43,14 +43,14 @@ namespace Windows_Application
         public Form1()
         {
             InitializeComponent();
-            presenter = new Presenter(this);
+            presenter = new Controller(this);
             try
             {  
                 presenter.PopulateTables();
             }
             catch (SqlException e1)
             {
-                lblDeletePersonError.Text = ErrorHandler.GetErrorMessage(e1.Number);
+                lblDeletePersonError.Text = ErrorHandler.GetErrorMessage(e1.Number) + e1.Message;
             }
             catch (Exception)
             {

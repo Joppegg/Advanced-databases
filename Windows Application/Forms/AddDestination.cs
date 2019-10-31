@@ -15,7 +15,7 @@ namespace Windows_Application
 {
     public partial class AddDestination : Form, IAddDestination
     {
-        private Presenter presenter = null;
+        private Controller presenter = null;
         public string DestinationHotel { get { return textBoxDestinationHotel.Text; } set { textBoxDestinationHotel.Text = value; } }
         public string DestinationCountry { get { return textBoxDestinationCountry.Text; } set { textBoxDestinationCountry.Text = value; } }
         public string DestinationCity { get { return textBoxDestinationCity.Text; } set { textBoxDestinationCity.Text = value; } }
@@ -25,7 +25,7 @@ namespace Windows_Application
         public AddDestination()
         {
             InitializeComponent();
-            presenter = new Presenter(this);
+            presenter = new Controller(this);
         }
 
         private void btnAddDestination_Click(object sender, EventArgs e)

@@ -9,7 +9,7 @@ using System.Data;
 
 namespace Windows_Application.Presenters
 {
-   public class Presenter
+   public class Controller
     {
        private IView m_View;
        private IBooking booking;
@@ -20,39 +20,39 @@ namespace Windows_Application.Presenters
        private IUpdateDestination updateDestination_View;
        private IUpdateBooking updateBooking_View;
 
-        public Presenter (IUpdateDestination updateDestinationView)
+        public Controller (IUpdateDestination updateDestinationView)
         {
             updateDestination_View = updateDestinationView;
         }
 
-        public Presenter(IAddDestination destinationView)
+        public Controller(IAddDestination destinationView)
         {
             addDestination_View = destinationView;
         }
 
-        public Presenter (IUpdateBooking updateBookingView)
+        public Controller (IUpdateBooking updateBookingView)
         {
             updateBooking_View = updateBookingView;
         }
 
-        public Presenter(IUpdateCustomer customerView)
+        public Controller(IUpdateCustomer customerView)
         {
             updateCustomer_View = customerView;
 
         }
 
-        public Presenter (IView view)
+        public Controller (IView view)
         {
             m_View = view;
     
         }
         
-        public Presenter (IAddCustomer customerView)
+        public Controller (IAddCustomer customerView)
         {
             addCustomer_View = customerView;
         }
 
-        public Presenter(AddBooking addBooking)
+        public Controller(AddBooking addBooking)
         {
             booking = addBooking;
         }

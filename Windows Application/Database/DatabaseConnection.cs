@@ -10,7 +10,6 @@ namespace Windows_Application {
     
    public class DatabaseConnection
     {
-     
         public static void Query(string query) 
         {
             using (SqlConnection sqlCon = new SqlConnection(DatabaseConnection.GetConnectionString()))
@@ -26,41 +25,14 @@ namespace Windows_Application {
         {
             //should be changed to static
             SqlConnectionStringBuilder builder = new SqlConnectionStringBuilder();
-            builder.DataSource = "DESKTOP-94IVMEG\\SQLEXPRESS";
-            builder.UserID = "Jonny";
-            builder.Password = "Dumdum123";
+            builder.DataSource = "LAPTOP-N4492EUJ\\SQLEXPRESS";
+            builder.UserID = "adbadmin";
+            builder.Password = "Travel123";
             builder.InitialCatalog = "Travel";
             return builder.ConnectionString;
          
         }
  
-        public SqlConnection GetDatabaseConnection ()
-        {
-            try
-            {
-                
-                SqlConnectionStringBuilder builder = new SqlConnectionStringBuilder();
-                builder.DataSource = "DESKTOP-94IVMEG\\SQLEXPRESS";
-                builder.UserID = "Jonny";
-                builder.Password = "Dumdum123";
-                builder.InitialCatalog = "Travel";
-
-
-                Console.Write("Connecting to SQL Server ... ");
-
-                using (SqlConnection connection = new SqlConnection(builder.ConnectionString))
-                {
-                    connection.Open();
-                    return connection;
-                }
-
-            }
-            catch (SqlException e)
-            {
-                Console.WriteLine(e.ToString());
-                return null;
-            }
-            
-        }
+   
     }
 }
